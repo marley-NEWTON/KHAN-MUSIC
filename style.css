@@ -90,7 +90,7 @@ nav ul li a {
   top: 0;
   left: 0;
   border-radius: 50px;
-  background: #234567;
+  background: #ff5c00;
   width: 45px;
   height: 45px;
   transition: all 0.3s ease;
@@ -128,7 +128,7 @@ nav ul li a {
   font-size: 18px;
   font-weight: 700;
   letter-spacing: 0.05em;
-  color: #234567;
+  color: #ff5c00;
 }
 
 .cta svg {
@@ -138,7 +138,7 @@ nav ul li a {
   fill: none;
   stroke-linecap: round;
   stroke-linejoin: round;
-  stroke: #234567;
+  stroke: #ff5c00;
   stroke-width: 2;
   transform: translateX(-5px);
   transition: all 0.3s ease;
